@@ -1,0 +1,43 @@
+{
+	"hide-files.files": [
+		".next",
+		"pnpm-lock.yaml",
+		"node_modules",
+		"pnpm-workspace.yaml",
+		".vscode",
+		"eslint.config.mjs",
+		"components.json",
+		"postcss.config.mjs",
+		"next.config.ts",
+		"next-env.d.ts",
+		"global.d.ts",
+		"tsconfig.json",
+		"prisma.config.ts",
+		"prisma/migrations",
+		"prisma/generated"
+	],
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		".next": true,
+		"pnpm-lock.yaml": true,
+		"node_modules": true,
+		"pnpm-workspace.yaml": true,
+		".vscode": true,
+		"eslint.config.mjs": true,
+		"components.json": true,
+		"postcss.config.mjs": true,
+		"next.config.ts": true,
+		"next-env.d.ts": true,
+		"global.d.ts": true,
+		"tsconfig.json": true,
+		"prisma.config.ts": true,
+		"prisma/migrations": true,
+		"prisma/generated": true
+	},
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4
+}
